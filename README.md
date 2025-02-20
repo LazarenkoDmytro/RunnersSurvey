@@ -9,15 +9,17 @@
 - [ ] Race results or performance milestones
 - [ ] Reflections on your running experience
 - [ ] Photos or videos of your running routes
+- [ ] Other type of content
 - [ ] I have not shared any running-related content
 
 **Q2 (Select-All-That-Apply):**  
-*Which channels do you use when sharing running-related experiences?*
+*In the past six months, which channels do you use when sharing running-related experiences?*
 
 - [ ] Social media platforms (e.g., Facebook, Instagram)
 - [ ] Dedicated running apps (e.g., Strava)
 - [ ] Online forums or community groups
 - [ ] Private messaging groups
+- [ ] Other type of channels
 - [ ] I do not share running-related experiences
 
 **Q3 (Select-All-That-Apply):**  
@@ -27,7 +29,7 @@
 - [ ] Receiving feedback or encouragement
 - [ ] Contributing to a community
 - [ ] Marking personal achievements
-- [ ] None of the above
+- [ ] Other (Specify)
 
 ---
 
