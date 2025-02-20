@@ -38,31 +38,31 @@
 **Q1 (Multiple Choice):**  
 *Which option best describes your usual training arrangement?*
 
-<ul style="list-style: none">
-  <li>◯ I usually run alone</li>
-  <li>◯ I run with one or two friends</li>
-  <li>◯ I participate in organized group runs</li>
-  <li>◯ I take part in virtual group challenges</li>
-  <li>◯ My routine varies</li>
-</ul>
+- [ ] I usually run alone
+- [ ] I run with one or two people
+- [ ] I participate in organized group runs
+- [ ] Events organized by local clubs or organizations
+- [ ] I run with a coach
+- [ ] Other
 
 **Q2 (Select-All-That-Apply):**  
 *In the last six months, which social activities related to running have you participated in?*
 
-- [ ] In-person group runs or meet-ups
+- [ ] Meet-ups (not necessarily running)
 - [ ] Virtual challenges or online competitions
 - [ ] Online discussions in running communities
 - [ ] Events organized by local clubs or organizations
-- [ ] None of the above
+- [ ] Other
 
 **Q3 (Multiple Choice):**  
 *Overall, how often do you take part in running-related social activities (both online and in-person)?*
 
 <ul style="list-style: none">
-  <li>◯ Rarely or never</li>
-  <li>◯ Occasionally</li>
-  <li>◯ Regularly</li>
-  <li>◯ Frequently</li>
+    <li>Once a week of more frequently</li>
+    <li>Once per few weeks</li>
+    <li>Once a month</li>
+    <li>Once per few month or less often</li>
+    <li>I haven't taken a part in activities yet</li>
 </ul>
 
 ---
@@ -70,7 +70,8 @@
 ## Objective 3: Understand What Motivates Runners to Engage Socially
 
 **Q1 (Matrix – Likert Scale):**  
-*Please rate the importance of each factor in your decision to engage in running-related social activities (1 = Not important, 5 = Very important):*
+*Please rate the importance of each factor in your decision to engage in running-related social activities (1 = Not
+important, 5 = Very important):*
 
 | Factor                             | 1 | 2 | 3 | 4 | 5 |
 |------------------------------------|---|---|---|---|---|
@@ -115,7 +116,8 @@
 </ul>
 
 **Q3 (Matrix – Likert Scale):**  
-*Over the past 12 months, please indicate your level of agreement (1 = Strongly Disagree, 5 = Strongly Agree) with the following statements:*
+*Over the past 12 months, please indicate your level of agreement (1 = Strongly Disagree, 5 = Strongly Agree) with the
+following statements:*
 
 | Statement                                                                                           | 1 | 2 | 3 | 4 | 5 |
 |-----------------------------------------------------------------------------------------------------|---|---|---|---|---|
